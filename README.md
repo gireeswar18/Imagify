@@ -6,5 +6,4 @@
 - React JS
 - Node JS
 
-## Live Demo
-
+## Preview
